@@ -15,6 +15,7 @@ archive.google.com
 asia.google.com
 asia2.google.com
 atap.google.com
+bard.google.com
 blog.google.com
 blogsearch.google.com
 bookmarks.google.com
