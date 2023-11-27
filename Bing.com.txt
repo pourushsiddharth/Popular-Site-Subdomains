@@ -19,3 +19,4 @@ a1.bing.com
 wp.m.bing.com
 se.bing.com
 ssl.bing.com
+chat.bing.com
